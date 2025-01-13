@@ -1,8 +1,8 @@
 # Hospital_Employees_Attrition_Predictive_Modelling_-Python-  
-This machine learning project uses python to develop Employees Attrition prediction model to aid the hospital  to determine most significant factors influencing customer retention to optimize better business strategies.  
+This machine learning project uses Python to develop an employee attrition prediction model to aid the hospital in determining the most significant factors influencing customer retention to optimize better business strategies.  
 
-Employees Attrition Prediction Using Machine Learning Model
-I developed a predictive model to forecast customer churn in a telco dataset using supervised learning techniques. The project aimed to identify the most significant factors influencing Hospital Employees Atrrition and optimize business strategies.
+Employee Attrition Prediction Using Machine Learning Model
+I developed a predictive model to forecast customer churn in a telco dataset using supervised learning techniques. The project aimed to identify the most significant factors influencing Hospital Employee Atrrition and optimize business strategies.
 
 ## Notebook:  
 <a href="https://github.com/Ciidarlytics/Hospital_Employees_Attrition_Predictive_Modelling_-Python-/blob/main/Hospital_Employees_Attrition.ipynb">"Machine Learning Model</a>
